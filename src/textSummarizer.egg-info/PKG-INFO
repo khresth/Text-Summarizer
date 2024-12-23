@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: textSummarizer
 Version: 0.0.0
-Summary: A Python package for efficient text summarization using state-of-the-art NLP techniques
+Summary: A Python package for efficient text summarization using NLP
 Home-page: https://github.com/khresth/Text-Summarizer
 Author: khresth
 Author-email: kshitijshresth20@gmail.com
